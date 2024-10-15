@@ -13,7 +13,8 @@ e provavelmente ela não ira parar de crescer. Estudando com o foco na primeira 
 # Aula vista dia 12/10/2024 
   Criando uma instância de SQL no Microsoft Azure e mais alguns conceitos de Pay as you go.
 # Aula vista dia 15/10/2024
-  Entendendo os componentes da arquitetura da AZURE 
+  Entendendo os componentes da arquitetura da AZURE e exploramos alguns recursos da plataforma
+  https://datacenters.microsoft.com/globe/explore/
 
 # Dia 15/10/2024 Evento da Microsoft Virtual Trainnig Days Dia 1 de 2
   Participei desse evento que fala sobre a parte introdutória do Azure 
