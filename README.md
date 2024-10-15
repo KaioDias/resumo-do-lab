@@ -12,3 +12,8 @@ e provavelmente ela não ira parar de crescer. Estudando com o foco na primeira 
   Aprendi sobre os conceitos de Iaas,Paas e Saas na Azure, modelo de responsabilidade compartilhada entre Microsoft e o cliente.
 # Aula vista dia 12/10/2024 
   Criando uma instância de SQL no Microsoft Azure e mais alguns conceitos de Pay as you go.
+# Aula vista dia 15/10/2024
+  Entendendo os componentes da arquitetura da AZURE 
+
+# Dia 15/10/2024 Evento da Microsoft Virtual Trainnig Days Dia 1 de 2
+  Participei desse evento que fala sobre a parte introdutória do Azure 
