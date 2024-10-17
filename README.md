@@ -18,3 +18,9 @@ e provavelmente ela não ira parar de crescer. Estudando com o foco na primeira 
 
 # Dia 15/10/2024 Evento da Microsoft Virtual Trainnig Days Dia 1 de 2
   Participei desse evento que fala sobre a parte introdutória do Azure 
+
+# Dia 16/10/2024 Evento da Microsoft Virtual Trainnig Days Dia 2 de 2
+  Participei desse evento que fala sobre a parte introdutória do Azure 
+
+# Aula vista dia 15/10/2024
+  Computação em  rede (criação da VM,Aplicativos de Função, area de trabalho remota)
