@@ -24,3 +24,10 @@ e provavelmente ela não ira parar de crescer. Estudando com o foco na primeira 
 
 # Aula vista dia 15/10/2024
   Computação em  rede (criação da VM,Aplicativos de Função, area de trabalho remota)
+  
+# Aula vista dia  22/10/2024 - Laboratório Storange Account
+  AzCopy , Gerenciador de armazenamento , migração azure
+  LRS -> 3 CÓPIAS NO MESMO DATACENTER 
+  GRS -> CÓPIA FORA DA MINHA REGIÃO 
+  ZRS -> 3 CÓPIAS EM CADA DATACENTER
+  GZRS -> GRS + ZRS
