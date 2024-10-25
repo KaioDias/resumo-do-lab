@@ -31,10 +31,16 @@ e provavelmente ela não ira parar de crescer. Estudando com o foco na primeira 
   GRS -> CÓPIA FORA DA MINHA REGIÃO 
   ZRS -> 3 CÓPIAS EM CADA DATACENTER
   GZRS -> GRS + ZRS
-
+  
 # Aula 24/10/2024
   Indentidade, acesso e segurança
-
   Entra ID -> serviço de gerenciamento de identidade e acesso baseado em nuvem do Azure
   Entra domain services -> sicronização de usuarios , dominio gerenciado
+# Aula 25/10/2024
+  Autenticação e Autorização
+  Acesso condicional (local do ip, dispositivo, apicativo, detecçao de risco ,associação de usuario ou grupo)
+  Confiança zero
+  Microsoft defender para nuvem 
+  
+  
   
